@@ -3,7 +3,8 @@ script that make repository automatically
 
 put this script in /usr/local/bin/repo_automake
 
-#1 Usage: 
+Usage: 
+
        1. repo_automake [repo_name] : use user's input as repository name
 
        2. repo_automake : use directory name as repository name
